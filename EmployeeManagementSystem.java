@@ -47,8 +47,6 @@ public class EmployeeManagementSystem {
             this.gender = gender ;
             this.maritalStatus = maritalStatus ;
             this.performance = performance ;
-
-
         }
 
         public Double calculateSalary(){
